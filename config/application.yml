@@ -1,0 +1,14 @@
+development:
+  DB_USERNAME: 'postgres'
+  DB_PASSWORD: 'password'
+  DB_NAME_DEV: turbolinks_development
+
+test:
+  DB_USERNAME: 'postgres'
+  DB_PASSWORD: 'password'
+  DB_NAME_TEST: turbolinks_test
+
+production:
+  DB_USERNAME: ''
+  DB_PASSWORD: ''
+  DB_NAME_TEST: turbolinks_production
